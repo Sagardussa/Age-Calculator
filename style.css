@@ -11,16 +11,16 @@ body{
 } 
 
 h1{
-  padding-left: 580px;
-    padding-top: 130px;
+  padding-left: 300px;
+    padding-top: 80px;
     height: fit-content;
     color: rgba(238, 231, 231, 0.87);
     font: bold;
 }
 .container{
-    margin-top: 300px;
-    margin-left: 100px;
-    margin-right: 0px;
+    margin-top: 250px;
+    margin-left: 400px;
+  
     
     width: 50%;
     min-width: 450px;
