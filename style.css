@@ -19,8 +19,8 @@ h1{
 }
 .container{
     margin-top: 300px;
-    margin-left: 300px;
-    margin-right: 450px;
+    margin-left: 100px;
+    margin-right: 0px;
     
     width: 50%;
     min-width: 450px;
