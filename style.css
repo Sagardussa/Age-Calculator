@@ -11,9 +11,9 @@ body{
 } 
 
 h1{
-   
-  padding-left: 500;
-    padding-top: 1000px;
+    /* display: flex;
+    align-self:center; */
+  padding-left: 50px;
   
     height: fit-content;
     color: rgba(238, 231, 231, 0.87);
@@ -22,7 +22,7 @@ h1{
 .container{
 
     width: 40%;
-    min-width: 450px;
+    min-width: 500px;
     position: absolute;
     transform: translate(-50%,-50%);
     left: 50%;
