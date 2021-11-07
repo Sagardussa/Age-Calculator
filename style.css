@@ -11,6 +11,9 @@ body{
 } 
 
 h1{
+     display: flex;
+    align-self:center;
+    
   padding-left: 50%;
     padding-top: 40%;
     height: fit-content;
