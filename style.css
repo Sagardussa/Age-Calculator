@@ -11,18 +11,16 @@ body{
 } 
 
 h1{
-        font-size: 50px;
-
-     display: flex;
-    align-self:center;
-    
-  padding-left: 50%;
-    padding-top: 40%;
+    /* display: flex;
+    align-self:center; */
+  padding-left: 80px;
+  
     height: fit-content;
     color: rgba(238, 231, 231, 0.87);
     font: bold;
 }
 .container{
+
     width: 40%;
     min-width: 450px;
     position: absolute;
