@@ -11,9 +11,8 @@ body{
 } 
 
 h1{
-    /* display: flex;
-    align-self:center; */
-  padding-left: 80px;
+   
+  padding-left: 30px;
   
     height: fit-content;
     color: rgba(238, 231, 231, 0.87);
